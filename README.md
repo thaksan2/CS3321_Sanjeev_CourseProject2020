@@ -13,5 +13,6 @@ After you run the project, to add new task in your todo list first u need to sel
 # **Building**
 To execute this project, you should have NetBeans IDE and javafx with jdk 8 already installed into your computer. After you downloaded the zip file of the project, unzipping the file and open it with NetBeans. Once the project is opened in NetBeans click the green run button. If you do not have NetBeans and javafx then you can follow the link below on how to install it. 
 https://www.youtube.com/watch?v=vt7_6HwCFOU&fbclid=IwAR0dIzmXMs0QHe0DZMrif6KEXAU1ob1zvvubW8Drsgk6MlUg-L8hEFjLW3w
+
 https://www.youtube.com/watch?v=UlobR93nJow
 

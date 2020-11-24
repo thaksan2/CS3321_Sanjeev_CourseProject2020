@@ -2,6 +2,11 @@
 /**
  * @author thaku
  * This class collects all the data that user enters.
+ * Got some idea on how to use javafx and scenebulder from following link
+ * https://www.youtube.com/watch?v=WQEEjD3hwjA&t=643s
+ * https://www.youtube.com/watch?v=nieIxKuQqo0&t=502s
+ * https://www.youtube.com/watch?v=dQSTffLSSZY&t=9s
+ * https://www.youtube.com/watch?v=9uubyM6oHAY&t=450s
  */
 
 import java.time.LocalDate;
@@ -24,6 +29,8 @@ public class Task {
      * @param description the description to set
      */
     public void settaskDescription(String description) {
+        if(description==" ")
+            this.taskDescription="Null String";
         this.taskDescription = description;
     }
 

@@ -1,7 +1,11 @@
 /**
  * @author Sanjeev Thakur
- * This class connects GUI.fxml which handles buttons, ListView, TextField, and0 DatePicker which i used in UI
+ * This class connects GUI.fxml which handles buttons, ListView, TextField, and0 DatePicker which i used in UI.
+ * Got some idea on how to use javafx and scenebulder from following link
  * https://www.youtube.com/watch?v=WQEEjD3hwjA&t=643s
+ * https://www.youtube.com/watch?v=nieIxKuQqo0&t=502s
+ * https://www.youtube.com/watch?v=dQSTffLSSZY&t=9s
+ * https://www.youtube.com/watch?v=9uubyM6oHAY&t=450s
  */
 
 import java.net.URL;
@@ -60,11 +64,5 @@ public class GUIController implements Initializable {
         
     }
     
-    /**
-    private void refresh(){
-        datePicker.setValue(LocalDate.now());
-        txtEvent.setText(null);
-    }
     
-    */
 }

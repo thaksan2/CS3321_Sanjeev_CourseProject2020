@@ -6,6 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+## 0.0.5 - 11-23-2020
+### Added
+- New test class for task class.
+- Added more comments in the task class
+
+### Removed
+- Old TestTask java class with new TestTask java class
+
 ## 0.0.4 - 11-23-2020
 ### Added
 - New Building section in README.md file.
